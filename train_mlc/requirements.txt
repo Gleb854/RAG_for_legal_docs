@@ -1,0 +1,10 @@
+transformers
+huggingface_hub
+pydantic
+faiss-cpu
+telebot
+loguru
+datasets
+torch
+flash_attn
+trl
